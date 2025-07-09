@@ -1,0 +1,17 @@
+h2 {
+    text-align: center;
+}
+
+button {
+    display: flex;
+    font-size: 24px;
+    cursor: pointer;
+    background-color: #4caf50;
+    color: white;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    /* height: 250px;            
+    width: 250px; */
+    margin: 50px auto;
+}
